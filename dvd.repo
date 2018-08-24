@@ -1,0 +1,5 @@
+[dvd]
+name=dvd
+baseurl=http://172.25.254.250/rhel7.3
+gpgcheck=0
+
